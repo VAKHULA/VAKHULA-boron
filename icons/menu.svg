@@ -1,0 +1,15 @@
+<svg
+	version="1.1"
+	id="menu"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+>
+   <path
+      style="fill: #ffffff"
+      d="M 511.98404,0.01670878 0.29071769,0.08114615 v 0 L 0.00308103,512.00546 v 0 l 490.68244897,0.16641 21.38385,0.006 z M 405.333,405.333 H 106.667 v -42.666 h 298.667 z m 0,-128 H 106.667 v -42.666 h 298.667 z m 0,-128 H 106.667 v -42.666 h 298.667 z"
+   />
+</svg>
