@@ -1125,7 +1125,7 @@ multipleSplats(parseInt(Math.random() * 20) + 7);
 
 setInterval(() => {
     multipleSplats(1);
-}, 2111)
+}, 555)
 
 let lastUpdateTime = Date.now();
 let colorUpdateTimer = 0.0;

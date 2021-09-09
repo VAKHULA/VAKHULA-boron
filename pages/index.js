@@ -40,7 +40,7 @@ const HomePage = () => {
       {/* <div className="logo">
         <IconLogo/>
       </div> */}
-      <div className="links">
+      {/* <div className="links">
         <a href="https://github.com/vakhula" title="my github">
           <IconGithub />
         </a>
@@ -50,7 +50,7 @@ const HomePage = () => {
         <a href="tel:+380634853855" title="my telegram">
           <IconPhone />
         </a>
-      </div>
+      </div> */}
       {/* <span className="iconswipe">
           <IconSwipe />
         </span> */}
